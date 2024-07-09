@@ -1,4 +1,7 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
 /* banner-section start */
 .banner-section{
     width: 1440px;
@@ -44,6 +47,95 @@ background-color: black;
 color: white;
 margin-left: 395px;
 margin-top: 50px;
+border-radius: 5px;
 }
 
 /* banner-section end */
+
+/* 2nd page start */
+main .important{
+    width: 1140px;
+    height: 1393px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    margin-top: 74px;
+    border: 1px solid white;
+}
+main .important .head-part{
+    width: 852px;
+height: 113px;
+margin: 0 auto;
+margin-top: 80px;
+}
+main .important .head-part h1{
+    text-align: center;
+    height: 61px;
+    margin: 0;
+    padding: 0;
+}
+main .important .head-part p{
+    text-align: center;
+    margin-top: 24px;
+    margin: 0;
+    padding: 0;
+    height: 52px;
+    
+}
+main .important-two{
+    width: 946px;
+    height: 1072px;
+    margin: 0 auto;
+    margin-top: 48px;
+
+}
+main .important-two .sitting-human{
+    width: 946px;
+    height: 336px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid white;
+    margin-bottom: 32px;
+    
+
+}
+main .important-two .sitting-human .parts{
+    width: 850px;
+height: 240px;
+margin: 0 auto;
+margin: 48px;
+
+}
+
+main .important-two .sitting-human .parts{
+    display: flex;
+}
+main .important-two .sitting-human .parts .writing{
+    width: 477px;
+    height: 219px;
+    margin-right: 100px;
+}
+main .important-two .sitting-human .parts .img{
+    width: 259.56px;
+height: 217.01px;
+}
+main .important-two .sitting-human .parts h3{
+margin-bottom: 16px;
+width: 390px;
+height: 72px;
+}
+main .important-two .sitting-human .parts p{
+    margin-bottom: 32px;
+    width: 468px;
+    height: 52px;
+}
+main .important-two .sitting-human .parts button{
+    border: 1px solid black;
+    width: 171px;
+height: 47px;
+background-color: white;
+    
+}
+
+
+
+/* 2nd page end */
